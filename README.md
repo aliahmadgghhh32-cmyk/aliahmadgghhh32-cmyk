@@ -1,16 +1,21 @@
-## Hi there 👋
+# میرے گٹ ہب پروفائل پر خوش آمدید 👋
 
-<!--
-**aliahmadgghhh32-cmyk/aliahmadgghhh32-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+میں ایک پرجوش ڈویلپر ہوں جو خودکار سسٹمز، الگورتھمک ٹریڈنگ اور آرٹیفیشل انٹیلیجنس (AI) پر مبنی ایپلی کیشنز بنانے میں مہارت رکھتا ہوں۔
 
-Here are some ideas to get you started:
+## 🚀 میرے بارے میں
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+میرا موجودہ فوکس **AI ٹریڈنگ بوٹس** اور **لائیو سگنل ڈیش بورڈز** تیار کرنا ہے جو مارکیٹ کا تجزیہ خودکار طریقے سے کر سکیں۔
+
+## 🛠️ ٹیک اسٹیک (Tech Stack)
+
+- **پروگرامنگ زبانیں:** Python, JavaScript
+- **بیک اینڈ فریم ورک:** FastAPI, Uvicorn
+- **فرنٹ اینڈ ٹیکنالوجیز:** HTML5, CSS3, Chart.js
+
+## 🎯 نمایاں پروجیکٹ (Featured Project)
+
+### 🤖 AI Trading Signal Board
+- **تفصیل:** ایک آل ان ون ٹریڈنگ بوٹ جو لائیو مارکیٹ ڈیٹا کا تجزیہ کرتا ہے، RSI انڈیکیٹر کی مدد سے خودکار خرید و فروخت کے سگنلز جنریٹ کرتا ہے اور رسک مینجمنٹ کو سنبھالتا ہے۔
+
+---
+**میری پروفائل دیکھنے کا شکریہ!** 🚀
